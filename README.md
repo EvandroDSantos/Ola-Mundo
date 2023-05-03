@@ -3,4 +3,4 @@
 
  Repositorio criado por Evandro
 
-Lista adicionada direto do site GITHUB
+Linha adicionada direto do site GITHUB
